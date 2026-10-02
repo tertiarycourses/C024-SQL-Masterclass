@@ -1,0 +1,61 @@
+﻿CustomerID,FirstName,LastName,MemberTier,JoinDate,PointsBalance,BirthYear,District,Phone,Email
+1001,Ethan,Chan,Basic,2022-02-01,66,1972,Tampines,9312 8829,ethan.chan1@example.com
+1002,Hui Ling,Chan,Silver,2023-04-11,1485,1975,Bedok,8955 3598,hui.chan2@example.com
+1003,Muhammad Faiz,Abdullah,Platinum,2019-12-21,14243,,Clementi,8459 2358,muhammad.abdullah3@example.com
+1004,Yong Sheng,Chua,Silver,2024-06-02,2811,1971,Clementi,8862 2254,yong.chua4@example.com
+1005,Marcus,Teo,Silver,2021-07-12,3734,1999,Bedok,9381 4823,
+1006,Bryan,Lim,Gold,2023-02-08,10195,1972,Punggol,9684 2264,bryan.lim6@example.com
+1007,Arif,Abdullah,Silver,2023-03-26,2039,1994,Woodlands,8318 8307,arif.abdullah7@example.com
+1008,Prakash,Kumar,Gold,2021-06-28,8214,1976,Jurong East,8149 8307,prakash.kumar8@example.com
+1009,Arif,Abdullah,Basic,2021-08-17,598,2003,Orchard,9813 1958,arif.abdullah9@example.com
+1010,Kai Xuan,Tan,Silver,2021-02-14,2596,1984,Serangoon,9205 9772,kai.tan10@example.com
+1011,Wei Ming,Lee,Basic,2022-10-28,883,1959,Tampines,9570 9933,wei.lee11@example.com
+1012,Denise,Sim,Basic,2023-01-13,552,1987,Jurong East,9146 7256,denise.sim12@example.com
+1013,Grace,Lee,Platinum,2022-06-23,24170,2003,Punggol,8749 4213,grace.lee13@example.com
+1014,Marcus,Chan,Basic,2020-09-27,300,,Bedok,9896 6303,marcus.chan14@example.com
+1015,Ethan,Ng,Basic,2023-09-06,484,1968,Clementi,8721 9846,ethan.ng15@example.com
+1016,Rachel,Lee,Basic,2020-12-05,289,1994,Bedok,8446 4407,rachel.lee16@example.com
+1017,Lakshmi,Pillai,Silver,2020-11-02,2460,1972,Clementi,9950 9008,lakshmi.pillai17@example.com
+1018,Mei Ling,Chan,Platinum,2023-02-18,22741,1968,Bedok,8536 8499,
+1019,Xin Yi,Koh,Basic,2020-08-06,39,1994,Clementi,8999 6538,xin.koh19@example.com
+1020,Xin Yi,Chan,Basic,2019-01-27,103,1970,Jurong East,8604 6859,xin.chan20@example.com
+1021,Hidayah,Abdullah,Silver,2023-08-16,1126,1993,Orchard,9366 3311,hidayah.abdullah21@example.com
+1022,Kai Xuan,Ong,Silver,2022-10-27,3522,1970,Woodlands,9982 8054,kai.ong22@example.com
+1023,Hui Ling,Ng,Gold,2023-06-12,6826,1962,Orchard,9932 7659,hui.ng23@example.com
+1024,Cheryl,Sim,Basic,2019-12-21,348,1968,Clementi,8758 7478,cheryl.sim24@example.com
+1025,Zhi Hao,Chua,Silver,2023-09-29,2829,,Clementi,8697 4387,zhi.chua25@example.com
+1026,Rajesh,Krishnan,Basic,2024-07-17,724,1962,Jurong East,9626 8777,rajesh.krishnan26@example.com
+1027,Cheryl,Ng,Platinum,2019-10-01,20954,1995,Woodlands,8872 9291,cheryl.ng27@example.com
+1028,Xin Yi,Chan,Gold,2023-12-09,7522,1962,Tampines,9677 3511,xin.chan28@example.com
+1029,Hafiz,Abdullah,Silver,2019-11-01,3827,1975,Orchard,8230 8559,hafiz.abdullah29@example.com
+1030,Ethan,Tan,Silver,2020-06-10,2120,1994,Serangoon,8615 4695,ethan.tan30@example.com
+1031,Chloe,Ng,Gold,2024-02-22,10385,1963,Clementi,9889 6298,
+1032,Grace,Lim,Silver,2020-06-15,3337,1965,Tampines,8190 3298,grace.lim32@example.com
+1033,Bryan,Lee,Basic,2023-07-29,157,1998,Serangoon,8278 5222,bryan.lee33@example.com
+1034,Jun Hao,Wong,Silver,2022-04-25,1300,1964,Orchard,8401 3102,jun.wong34@example.com
+1035,Yong Sheng,Goh,Silver,2019-11-30,3594,1988,Punggol,8464 8896,yong.goh35@example.com
+1036,Jia Hui,Wong,Gold,2021-03-23,8164,,Orchard,8160 7675,jia.wong36@example.com
+1037,Wei Jie,Koh,Platinum,2020-01-17,14935,1994,Woodlands,8443 8831,wei.koh37@example.com
+1038,Hui Ling,Ng,Platinum,2019-09-25,14875,2004,Tampines,9453 8530,hui.ng38@example.com
+1039,Priya,Krishnan,Basic,2020-07-19,245,1960,Tampines,9857 8488,priya.krishnan39@example.com
+1040,Zulkifli,Ibrahim,Silver,2023-10-25,3749,1998,Tampines,9707 2268,zulkifli.ibrahim40@example.com
+1041,Rachel,Lim,Basic,2020-08-02,196,1975,Tampines,9789 3936,rachel.lim41@example.com
+1042,Denise,Koh,Basic,2024-06-08,800,1961,Clementi,9325 6342,denise.koh42@example.com
+1043,Zhi Hao,Teo,Basic,2020-06-08,62,1978,Jurong East,9899 7740,zhi.teo43@example.com
+1044,Shu Fen,Chua,Basic,2022-11-11,305,1992,Orchard,8835 6113,
+1045,Wei Ming,Teo,Gold,2023-12-06,10683,1988,Orchard,9325 7217,wei.teo45@example.com
+1046,Chloe,Tan,Basic,2020-07-22,771,1979,Tampines,9367 7934,chloe.tan46@example.com
+1047,Yong Sheng,Sim,Silver,2021-12-23,2827,,Jurong East,8210 1139,yong.sim47@example.com
+1048,Bryan,Lee,Basic,2020-05-02,124,1958,Bedok,8983 8531,bryan.lee48@example.com
+1049,Meena,Subramaniam,Silver,2021-04-21,2831,2000,Orchard,8355 7078,meena.subramaniam49@example.com
+1050,Muhammad Danial,Osman,Platinum,2019-11-21,28127,1965,Clementi,9182 8601,muhammad.osman50@example.com
+1051,Shu Fen,Tan,Basic,2019-05-12,221,1997,Tampines,9377 6852,shu.tan51@example.com
+1052,Suresh,Krishnan,Basic,2019-04-05,340,1996,Woodlands,9508 6281,suresh.krishnan52@example.com
+1053,Jia Hui,Teo,Silver,2020-07-13,1280,1985,Woodlands,8523 4188,jia.teo53@example.com
+1054,Meena,Nair,Silver,2021-08-08,959,1984,Orchard,9465 4607,meena.nair54@example.com
+1055,Priya,Menon,Basic,2019-06-18,92,1966,Tampines,8909 5465,priya.menon55@example.com
+1056,Zhi Hao,Ong,Basic,2024-04-24,22,1964,Bedok,9814 2071,zhi.ong56@example.com
+1057,Muhammad Faiz,Abdullah,Basic,2021-09-15,635,1994,Bedok,9911 9745,
+1058,Grace,Chua,Gold,2022-04-06,7337,,Bedok,8388 5781,grace.chua58@example.com
+1059,Rachel,Wong,Basic,2022-04-01,562,1961,Bedok,8860 5175,rachel.wong59@example.com
+1060,Chloe,Sim,Gold,2022-11-07,6759,1970,Punggol,9890 4281,chloe.sim60@example.com

@@ -1,0 +1,7 @@
+﻿disrupt_no,disrupt_date,disrupt_type,disrupt_name,disrupt_details,start_datetime,duration,timetable_id,alternatives
+1,2025-03-14,Signalling,Signal fault at Bishan,Signalling fault caused train bunching between Bishan and Dhoby Ghaut.,202503140812,45 min,4,Free bridging bus between Bishan and Dhoby Ghaut
+2,2025-04-02,Track,Track point failure,Faulty track point detected at Jurong East platform B.,202504020705,1 hr 20 min,1,Free regular bus services along NSL corridor
+3,2025-05-19,Power,Traction power trip,Traction power trip affecting eastbound services on the East West Line.,202505191830,35 min,13,Shuttle service Pasir Ris to Tampines
+4,2025-06-08,Weather,Flash flood at entrance,Heavy rain caused flooding at Station Exit C; entrance closed temporarily.,202506081545,2 hr,25,Alternative entrances A and B remain open
+5,2025-07-21,Train Fault,Faulty train withdrawn,"A train was withdrawn at Punggol for maintenance, extending wait times.",202507210920,25 min,34,Additional trains deployed from Sengkang depot
+6,2025-09-03,Signalling,Communication loss,Temporary loss of communication between train and trackside equipment.,202509031705,50 min,40,Free bridging bus along Thomson-East Coast corridor

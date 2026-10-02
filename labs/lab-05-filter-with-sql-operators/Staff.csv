@@ -1,0 +1,43 @@
+﻿StaffID,BadgeNo,FirstName,LastName,Role,OutletCode,HireDate,MonthlySalary,Phone,Email,Employment
+1,S7000137,Jun Hao,Ng,Store Manager,OTL01,2020-11-18,6961.0,9717 5176,jun.ng1@example.com,Full-Time
+2,S7000274,Priya,Raj,Store Manager,OTL02,2022-10-02,6253.0,8199 8613,priya.raj2@example.com,Full-Time
+3,S7000411,Jun Hao,Goh,Store Manager,OTL03,2017-10-05,7391.0,9752 1595,jun.goh3@example.com,Full-Time
+4,S7000548,Jun Hao,Chua,Store Manager,OTL04,2020-08-30,6629.0,9370 2648,,Full-Time
+5,S7000685,Natalie,Fernandez,Store Manager,OTL05,2015-12-31,6106.0,8553 8585,natalie.fernandez5@example.com,Full-Time
+6,S7000822,Jia Hui,Lim,Store Manager,OTL06,2023-11-13,5292.0,8393 9030,jia.lim6@example.com,Full-Time
+7,S7000959,Shu Fen,Ng,Store Manager,OTL07,2024-07-06,6016.0,8426 7115,shu.ng7@example.com,Full-Time
+8,S7001096,Li Ting,Sim,Store Manager,OTL08,2021-12-27,5913.0,9495 3325,li.sim8@example.com,Full-Time
+9,S7001233,Cheryl,Tan,Visual Merchandiser,OTL06,2023-07-31,3106.0,8202 7623,cheryl.tan9@example.com,Part-Time
+10,S7001370,Mei Ling,Teo,Assistant Manager,OTL04,2021-10-03,4395.0,9847 5897,mei.teo10@example.com,Full-Time
+11,S7001507,Li Ting,Tan,Supervisor,OTL06,2021-05-08,4103.0,9584 3522,li.tan11@example.com,Full-Time
+12,S7001644,Daniel,Koh,Supervisor,OTL05,2014-10-18,4105.0,9998 4267,daniel.koh12@example.com,Full-Time
+13,S7001781,Yong Sheng,Chua,Stock Associate,OTL08,2016-08-11,2920.0,9503 4122,,Part-Time
+14,S7001918,Wei Ming,Ng,Visual Merchandiser,OTL07,2024-03-31,2918.0,8738 1457,wei.ng14@example.com,Part-Time
+15,S7002055,Arjun,Kumar,Visual Merchandiser,OTL05,2019-01-03,3566.0,9586 7611,arjun.kumar15@example.com,Full-Time
+16,S7002192,Wan Ting,Wong,Supervisor,OTL05,2014-09-09,3756.0,8458 4112,wan.wong16@example.com,Part-Time
+17,S7002329,Grace,Tan,Cashier,OTL05,2023-09-20,2599.0,9202 7267,grace.tan17@example.com,Full-Time
+18,S7002466,Marcus,Ng,Assistant Manager,OTL08,2022-09-29,5119.0,9924 6448,marcus.ng18@example.com,Part-Time
+19,S7002603,Yong Sheng,Chua,Cashier,OTL03,2021-02-18,2457.0,9502 6899,yong.chua19@example.com,Full-Time
+20,S7002740,Wei Ming,Goh,Supervisor,OTL03,2019-04-24,3431.0,8567 9103,wei.goh20@example.com,Full-Time
+21,S7002877,Xin Yi,Wong,Cashier,OTL02,2023-12-27,2344.0,8667 9549,xin.wong21@example.com,Full-Time
+22,S7003014,Wei Jie,Ng,Cashier,OTL07,2019-12-18,2363.0,9340 9076,,Full-Time
+23,S7003151,Cheryl,Chan,Assistant Manager,OTL04,2022-02-18,4277.0,8724 4488,cheryl.chan23@example.com,Part-Time
+24,S7003288,Zhi Hao,Lee,Visual Merchandiser,OTL06,2015-06-03,3473.0,9821 5028,zhi.lee24@example.com,Full-Time
+25,S7003425,Yong Sheng,Chan,Senior Cashier,OTL01,2023-08-20,3206.0,9388 5395,yong.chan25@example.com,Full-Time
+26,S7003562,Jia Hui,Tan,Senior Cashier,OTL05,2018-07-15,3207.0,8181 7349,jia.tan26@example.com,Full-Time
+27,S7003699,Arjun,Subramaniam,Assistant Manager,OTL04,2018-08-11,4890.0,8407 3104,arjun.subramaniam27@example.com,Part-Time
+28,S7003836,Cheryl,Ong,Cashier,OTL07,2017-02-21,2441.0,9948 6771,cheryl.ong28@example.com,Part-Time
+29,S7003973,Jun Hao,Koh,Assistant Manager,OTL08,2017-05-09,5067.0,8849 8881,jun.koh29@example.com,Full-Time
+30,S7004110,Shu Fen,Tan,Supervisor,OTL07,2018-01-09,4146.0,8670 4551,shu.tan30@example.com,Full-Time
+31,S7004247,Rajesh,Nair,Supervisor,OTL04,2023-01-19,3355.0,9726 5767,,Full-Time
+32,S7004384,Syafiq,Ibrahim,Visual Merchandiser,OTL05,2014-01-24,3343.0,8529 7504,syafiq.ibrahim32@example.com,Full-Time
+33,S7004521,Dinesh,Menon,Senior Cashier,OTL02,2024-09-17,2803.0,9286 6703,dinesh.menon33@example.com,Part-Time
+34,S7004658,Denise,Lim,Stock Associate,OTL08,2016-12-12,2931.0,9275 3867,denise.lim34@example.com,Full-Time
+35,S7004795,Rachel,Chua,Senior Cashier,OTL02,2019-11-14,2871.0,8257 9540,rachel.chua35@example.com,Full-Time
+36,S7004932,Syafiq,Abdullah,Visual Merchandiser,OTL04,2023-11-25,3040.0,9262 6357,syafiq.abdullah36@example.com,Full-Time
+37,S7005069,Anitha,Krishnan,Senior Cashier,OTL05,2024-08-23,3058.0,9212 7234,anitha.krishnan37@example.com,Full-Time
+38,S7005206,Arif,Hassan,Stock Associate,OTL08,2024-02-24,2786.0,9259 3545,arif.hassan38@example.com,Full-Time
+39,S7005343,Anitha,Nair,Supervisor,OTL05,2023-11-21,3642.0,8630 2834,anitha.nair39@example.com,Full-Time
+40,S7005480,Syafiq,Osman,Supervisor,OTL03,2020-06-03,3791.0,8785 5411,,Full-Time
+41,S7005617,Daniel,Lim,Senior Cashier,OTL08,2019-01-25,2756.0,9784 5989,daniel.lim41@example.com,Part-Time
+42,S7005754,Ethan,Chua,Cashier,OTL02,2016-05-24,2293.0,8472 8139,ethan.chua42@example.com,Full-Time

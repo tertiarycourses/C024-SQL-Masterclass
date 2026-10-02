@@ -1,0 +1,15 @@
+﻿station_code,station_name,route_id,line_position,is_interchange,opened_date
+NS01,Jurong East,R001,1,1,1990-11-10
+NS17,Bishan,R001,17,1,1987-11-07
+NS24,Dhoby Ghaut,R001,24,1,1987-12-12
+NS28,Marina South Pier,R001,28,0,2014-11-23
+EW01,Pasir Ris,R002,1,0,1989-11-04
+EW13,City Hall,R002,13,1,1987-12-12
+EW24,Jurong East,R002,24,1,1988-11-05
+CC01,Dhoby Ghaut,R003,1,1,2010-04-17
+CC15,Bishan,R003,15,1,2009-05-28
+DT14,Bugis,R004,14,1,2013-12-22
+NE06,Dhoby Ghaut,R005,6,1,2003-06-20
+NE17,Punggol,R005,17,1,2003-06-20
+TE09,Springleaf,R006,9,0,2021-08-28
+TE14,Orchard,R006,14,1,2021-08-28

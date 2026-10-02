@@ -1,0 +1,181 @@
+﻿OrderID,OrderDate,OrderTime,OutletCode,CustomerID,StaffID,Channel,PaymentMethod,Status
+5001,2025-05-07,10:17,OTL08,1008,38,Mobile App,PayNow,Completed
+5002,2025-10-04,10:52,OTL07,1024,28,Mobile App,Credit Card,Completed
+5003,2025-05-07,20:38,OTL03,1010,20,Mobile App,NETS,Cancelled
+5004,2025-02-11,14:23,OTL02,1025,35,In-Store,NETS,Refunded
+5005,2025-05-11,18:38,OTL05,1028,39,Mobile App,PayNow,Completed
+5006,2025-05-15,14:38,OTL06,1022,24,In-Store,Cash,Completed
+5007,2025-07-08,11:23,OTL08,,18,Online,Cash,Cancelled
+5008,2025-08-04,10:44,OTL04,1024,23,Online,Cash,Completed
+5009,2025-08-12,12:38,OTL02,1033,2,Online,GrabPay,Completed
+5010,2025-07-30,10:52,OTL06,,9,In-Store,PayNow,Completed
+5011,2025-11-21,19:23,OTL08,1010,29,In-Store,PayNow,Completed
+5012,2025-09-15,13:52,OTL05,1044,17,Mobile App,PayNow,Completed
+5013,2025-03-10,18:52,OTL04,1053,4,Online,PayNow,Completed
+5014,2025-05-18,18:38,OTL01,1039,25,Online,Credit Card,Completed
+5015,2025-09-27,19:05,OTL08,1004,18,In-Store,GrabPay,Completed
+5016,2025-01-13,20:52,OTL02,1054,33,In-Store,PayNow,Completed
+5017,2025-07-24,13:17,OTL01,1003,1,Mobile App,Cash,Completed
+5018,2025-04-19,10:52,OTL04,1033,36,In-Store,PayNow,Completed
+5019,2025-05-28,14:17,OTL07,1035,7,Online,PayNow,Completed
+5020,2025-08-20,19:23,OTL05,1002,15,Online,NETS,Completed
+5021,2025-02-27,09:52,OTL06,1038,24,Mobile App,GrabPay,Completed
+5022,2025-10-21,21:52,OTL08,1036,18,Online,Credit Card,Completed
+5023,2025-06-29,21:23,OTL08,1060,41,In-Store,Cash,Completed
+5024,2025-07-07,19:44,OTL05,1047,37,Mobile App,Cash,Completed
+5025,2025-07-08,17:52,OTL03,1013,3,Online,NETS,Completed
+5026,2025-07-18,12:44,OTL01,1040,1,Online,PayNow,Completed
+5027,2025-04-18,21:44,OTL01,1033,25,In-Store,Credit Card,Completed
+5028,2025-09-26,14:23,OTL04,1046,23,In-Store,Credit Card,Completed
+5029,2025-05-26,21:44,OTL06,1040,9,In-Store,PayNow,Completed
+5030,2025-05-29,13:44,OTL03,1005,3,In-Store,GrabPay,Completed
+5031,2025-08-31,11:38,OTL05,1037,5,In-Store,PayNow,Completed
+5032,2025-01-25,11:38,OTL02,1013,42,Online,NETS,Completed
+5033,2025-06-27,14:23,OTL01,1030,1,Online,PayNow,Completed
+5034,2025-01-07,20:05,OTL06,1017,11,Mobile App,PayNow,Completed
+5035,2025-05-21,11:52,OTL03,1040,20,In-Store,NETS,Completed
+5036,2025-12-16,19:17,OTL01,1025,1,Online,GrabPay,Completed
+5037,2025-07-27,11:05,OTL08,1022,29,In-Store,Credit Card,Completed
+5038,2025-07-29,13:05,OTL06,1059,24,In-Store,Credit Card,Completed
+5039,2025-09-04,11:52,OTL05,1018,32,Online,NETS,Cancelled
+5040,2025-10-03,21:44,OTL02,1037,35,In-Store,Cash,Completed
+5041,2025-11-23,13:23,OTL06,1042,6,Online,Cash,Completed
+5042,2025-02-04,19:38,OTL02,1021,33,Online,NETS,Completed
+5043,2025-11-23,11:38,OTL08,1058,8,In-Store,NETS,Completed
+5044,2025-02-04,21:52,OTL02,1010,42,Mobile App,NETS,Completed
+5045,2025-05-03,13:38,OTL08,1019,41,Online,PayNow,Completed
+5046,2025-06-07,21:23,OTL02,,33,In-Store,Credit Card,Completed
+5047,2025-04-26,17:05,OTL08,1017,18,Online,Cash,Completed
+5048,2025-06-23,11:44,OTL08,1009,13,Mobile App,Credit Card,Completed
+5049,2025-03-31,11:23,OTL03,1011,3,In-Store,PayNow,Completed
+5050,2025-09-17,10:44,OTL08,1055,13,In-Store,Credit Card,Completed
+5051,2025-07-30,09:52,OTL04,1014,4,Online,Cash,Refunded
+5052,2025-03-24,10:05,OTL01,1008,1,Online,Credit Card,Completed
+5053,2025-11-09,12:38,OTL07,1049,28,In-Store,Credit Card,Completed
+5054,2025-01-14,19:23,OTL04,1060,36,Online,Cash,Completed
+5055,2025-07-03,11:52,OTL01,1055,25,In-Store,Credit Card,Completed
+5056,2025-04-20,12:05,OTL08,1030,34,Online,Cash,Completed
+5057,2025-07-20,21:44,OTL08,1040,41,Online,Credit Card,Completed
+5058,2025-07-09,12:17,OTL02,,21,Online,Credit Card,Completed
+5059,2025-06-22,12:17,OTL03,1015,3,Mobile App,Cash,Completed
+5060,2025-04-11,18:17,OTL01,1027,1,Mobile App,PayNow,Completed
+5061,2025-09-05,11:23,OTL02,1004,35,In-Store,Credit Card,Completed
+5062,2025-03-03,20:23,OTL01,1002,25,In-Store,Cash,Completed
+5063,2025-01-19,10:44,OTL02,,35,In-Store,PayNow,Completed
+5064,2025-01-22,10:38,OTL03,1057,19,Online,NETS,Completed
+5065,2025-03-14,13:52,OTL01,1030,25,Mobile App,NETS,Completed
+5066,2025-11-30,10:52,OTL06,1022,6,In-Store,PayNow,Completed
+5067,2025-12-04,20:23,OTL07,1001,30,Mobile App,PayNow,Completed
+5068,2025-04-11,20:23,OTL05,1026,39,Online,PayNow,Completed
+5069,2025-07-17,09:17,OTL03,1031,20,In-Store,PayNow,Completed
+5070,2025-06-25,17:44,OTL01,1006,25,Mobile App,Cash,Refunded
+5071,2025-09-06,18:38,OTL04,1020,36,Online,NETS,Completed
+5072,2025-02-27,21:44,OTL07,1049,30,Online,PayNow,Refunded
+5073,2025-06-04,17:05,OTL07,1014,30,Mobile App,GrabPay,Completed
+5074,2025-05-30,12:44,OTL08,1059,34,Online,Credit Card,Completed
+5075,2025-02-14,17:52,OTL03,1047,40,Online,GrabPay,Completed
+5076,2025-12-28,09:38,OTL07,1017,30,Online,Cash,Completed
+5077,2025-04-09,12:52,OTL07,1044,22,Online,Cash,Completed
+5078,2025-12-12,12:23,OTL03,1027,3,Mobile App,GrabPay,Refunded
+5079,2025-02-14,09:23,OTL04,1038,36,Mobile App,NETS,Completed
+5080,2025-01-09,11:17,OTL07,1030,7,In-Store,PayNow,Completed
+5081,2025-06-11,14:52,OTL03,1019,19,In-Store,GrabPay,Completed
+5082,2025-08-11,09:17,OTL04,1041,36,Mobile App,Cash,Completed
+5083,2025-04-29,12:52,OTL02,,21,Online,GrabPay,Completed
+5084,2025-07-03,20:17,OTL07,1005,30,Online,Cash,Completed
+5085,2025-09-17,19:44,OTL08,,18,Online,PayNow,Completed
+5086,2025-12-09,10:52,OTL03,,19,Online,GrabPay,Completed
+5087,2025-02-18,20:52,OTL08,1041,38,Mobile App,NETS,Completed
+5088,2025-12-24,21:38,OTL01,1026,25,Online,Cash,Completed
+5089,2025-03-16,20:38,OTL07,1030,22,In-Store,Credit Card,Completed
+5090,2025-12-13,12:38,OTL08,1010,38,In-Store,NETS,Completed
+5091,2025-03-12,13:05,OTL07,1010,14,Online,GrabPay,Completed
+5092,2025-11-06,12:17,OTL04,1053,4,In-Store,GrabPay,Completed
+5093,2025-07-13,11:17,OTL04,1008,10,In-Store,Credit Card,Completed
+5094,2025-03-21,18:23,OTL04,1051,4,In-Store,Credit Card,Completed
+5095,2025-01-14,21:23,OTL07,1016,30,In-Store,Credit Card,Completed
+5096,2025-12-22,20:23,OTL03,,3,Online,Cash,Completed
+5097,2025-12-26,18:44,OTL05,1037,12,In-Store,PayNow,Completed
+5098,2025-11-09,10:52,OTL01,1029,1,Online,PayNow,Completed
+5099,2025-07-15,19:17,OTL05,,37,Online,NETS,Completed
+5100,2025-03-26,21:23,OTL02,1059,2,Mobile App,PayNow,Cancelled
+5101,2025-10-27,09:23,OTL05,1032,37,Mobile App,NETS,Completed
+5102,2025-05-12,21:38,OTL06,1052,11,In-Store,PayNow,Completed
+5103,2025-01-29,09:05,OTL06,1007,24,Mobile App,Cash,Completed
+5104,2025-01-15,17:38,OTL04,1058,31,Mobile App,Cash,Completed
+5105,2025-01-04,09:38,OTL07,1014,28,Online,PayNow,Completed
+5106,2025-10-20,12:17,OTL01,,25,Mobile App,GrabPay,Completed
+5107,2025-04-27,11:23,OTL07,1011,14,In-Store,GrabPay,Completed
+5108,2025-08-25,11:38,OTL08,1009,13,In-Store,Credit Card,Completed
+5109,2025-03-21,12:05,OTL08,1037,8,In-Store,GrabPay,Refunded
+5110,2025-11-14,17:52,OTL05,1054,15,Mobile App,GrabPay,Completed
+5111,2025-10-09,09:17,OTL06,1039,6,Mobile App,PayNow,Completed
+5112,2025-03-14,12:52,OTL07,1018,30,In-Store,GrabPay,Completed
+5113,2025-05-27,10:23,OTL02,1001,2,Online,Cash,Completed
+5114,2025-09-10,19:23,OTL05,1031,39,In-Store,Cash,Completed
+5115,2025-10-14,14:38,OTL04,1009,23,In-Store,NETS,Completed
+5116,2025-12-20,14:17,OTL01,1020,1,Online,GrabPay,Completed
+5117,2025-07-20,19:52,OTL01,1044,1,Online,Credit Card,Cancelled
+5118,2025-12-09,17:23,OTL04,1001,4,Mobile App,PayNow,Completed
+5119,2025-05-11,21:38,OTL02,1038,33,Mobile App,Credit Card,Completed
+5120,2025-06-08,20:17,OTL07,1030,14,Mobile App,PayNow,Completed
+5121,2025-05-16,09:44,OTL06,1015,6,In-Store,PayNow,Completed
+5122,2025-10-31,20:38,OTL06,1026,6,Mobile App,NETS,Completed
+5123,2025-02-28,20:38,OTL08,,41,In-Store,NETS,Completed
+5124,2025-04-26,12:44,OTL03,1054,3,Mobile App,Credit Card,Completed
+5125,2025-08-01,21:44,OTL05,1050,16,Online,PayNow,Completed
+5126,2025-12-16,09:05,OTL04,,10,Online,PayNow,Completed
+5127,2025-05-17,18:05,OTL03,1004,40,In-Store,NETS,Completed
+5128,2025-03-05,20:23,OTL06,1020,11,Mobile App,Cash,Completed
+5129,2025-08-01,13:52,OTL07,1058,14,Mobile App,NETS,Completed
+5130,2025-01-29,09:44,OTL07,1025,22,Mobile App,Cash,Completed
+5131,2025-03-09,19:38,OTL08,1046,13,Online,Cash,Completed
+5132,2025-12-08,21:17,OTL02,1049,33,In-Store,Cash,Completed
+5133,2025-08-26,09:05,OTL06,,11,In-Store,Credit Card,Completed
+5134,2025-01-13,13:23,OTL05,1059,5,In-Store,GrabPay,Completed
+5135,2025-06-05,12:44,OTL05,1046,5,Online,Cash,Completed
+5136,2025-12-07,17:44,OTL05,1044,32,In-Store,Cash,Completed
+5137,2025-10-25,18:17,OTL03,1058,19,Online,Cash,Completed
+5138,2025-02-01,17:17,OTL02,1028,21,Online,PayNow,Completed
+5139,2025-05-17,10:17,OTL08,,13,Online,GrabPay,Cancelled
+5140,2025-04-02,17:17,OTL03,1017,20,In-Store,Credit Card,Completed
+5141,2025-04-01,10:38,OTL07,1006,7,In-Store,NETS,Completed
+5142,2025-03-19,11:05,OTL05,1027,32,In-Store,GrabPay,Cancelled
+5143,2025-12-21,18:05,OTL05,1018,17,Mobile App,Credit Card,Completed
+5144,2025-01-20,09:05,OTL05,1048,32,Online,Cash,Completed
+5145,2025-02-02,09:44,OTL08,1013,18,Mobile App,Credit Card,Completed
+5146,2025-09-16,09:38,OTL02,,35,Mobile App,GrabPay,Completed
+5147,2025-04-05,21:17,OTL08,1023,34,In-Store,Credit Card,Completed
+5148,2025-06-16,17:17,OTL04,1021,27,Mobile App,NETS,Completed
+5149,2025-02-11,18:44,OTL08,1032,34,In-Store,Cash,Completed
+5150,2025-05-12,11:44,OTL05,1002,32,Mobile App,Credit Card,Completed
+5151,2025-12-11,09:44,OTL01,,1,Online,Cash,Completed
+5152,2025-01-03,19:17,OTL04,1024,10,In-Store,Credit Card,Completed
+5153,2025-03-12,14:17,OTL01,1027,1,Online,GrabPay,Completed
+5154,2025-11-16,14:23,OTL05,1034,5,Online,GrabPay,Completed
+5155,2025-09-20,19:44,OTL07,1047,7,Mobile App,Cash,Completed
+5156,2025-08-17,18:38,OTL05,1026,37,In-Store,PayNow,Completed
+5157,2025-08-17,21:23,OTL06,1033,6,Online,PayNow,Completed
+5158,2025-07-31,21:17,OTL06,1029,11,Online,GrabPay,Cancelled
+5159,2025-03-31,18:05,OTL05,1021,26,In-Store,NETS,Completed
+5160,2025-03-17,14:23,OTL03,1051,3,Online,Credit Card,Completed
+5161,2025-03-17,11:52,OTL08,1022,41,Mobile App,PayNow,Completed
+5162,2025-07-17,20:52,OTL02,1014,42,Mobile App,GrabPay,Refunded
+5163,2025-07-23,19:17,OTL02,1018,42,Online,Credit Card,Completed
+5164,2025-11-27,09:23,OTL01,1033,1,Online,GrabPay,Completed
+5165,2025-03-22,12:38,OTL05,1057,12,In-Store,PayNow,Completed
+5166,2025-01-19,11:52,OTL03,1016,20,Mobile App,NETS,Completed
+5167,2025-02-18,14:05,OTL02,1060,33,Mobile App,GrabPay,Completed
+5168,2025-05-10,17:52,OTL07,1035,30,Mobile App,GrabPay,Completed
+5169,2025-01-13,10:38,OTL04,1047,27,Online,NETS,Completed
+5170,2025-02-01,13:17,OTL02,1002,35,Online,Cash,Completed
+5171,2025-05-10,20:38,OTL05,1019,16,In-Store,Credit Card,Completed
+5172,2025-09-11,10:44,OTL07,1041,28,Online,Cash,Completed
+5173,2025-04-23,18:38,OTL05,1011,26,Online,PayNow,Completed
+5174,2025-04-21,17:52,OTL06,1032,24,In-Store,GrabPay,Completed
+5175,2025-11-19,12:38,OTL08,1005,13,Mobile App,Cash,Completed
+5176,2025-01-25,10:17,OTL02,1060,42,In-Store,Credit Card,Completed
+5177,2025-12-29,20:17,OTL03,1028,40,Online,NETS,Completed
+5178,2025-09-24,09:52,OTL06,1044,9,Online,Cash,Completed
+5179,2025-07-20,17:52,OTL03,1032,3,Online,Cash,Completed
+5180,2025-01-02,09:17,OTL03,1047,3,Online,NETS,Completed

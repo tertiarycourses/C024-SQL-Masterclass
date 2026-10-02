@@ -1,0 +1,9 @@
+source-wsq/
+build/__pycache__/
+.DS_Store
+~$*
+archive/
+assessment/
+reference/
+.env
+.env.*

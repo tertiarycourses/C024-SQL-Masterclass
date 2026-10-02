@@ -1,0 +1,9 @@
+﻿route_id,route_type,route_code,route_name,route_direction,remarks
+R001,Train,NSL,North South Line,North,Jurong East ↔ Marina South Pier
+R002,Train,EWL,East West Line,East,Pasir Ris ↔ Tuas Link
+R003,Train,CCL,Circle Line,Loop,Dhoby Ghaut ↔ HarbourFront
+R004,Train,DTL,Downtown Line,West,Bukit Panjang ↔ Expo
+R005,Train,NEL,North East Line,North,HarbourFront ↔ Punggol
+R006,Train,TEL,Thomson-East Coast Line,East,Woodlands North ↔ Bayshore
+R007,Bus,170,Bus Service 170,North,Queen St ↔ Larkin (JB)
+R008,Bus,961,Bus Service 961,West,Woodlands ↔ Marina Centre

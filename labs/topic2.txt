@@ -1,0 +1,148 @@
+# Select data
+
+SELECT 'Hello, World';
+SELECT 'Hello, World' AS Result;
+SELECT * FROM Country;
+SELECT * FROM Country ORDER BY Name;
+SELECT Name, LifeExpectancy FROM Country ORDER BY Name;
+SELECT Name, LifeExpectancy AS "Life Expectancy" FROM Country ORDER BY Name;
+
+# Where clause
+
+SELECT Name, Continent, Region FROM Country;
+SELECT Name, Continent, Region FROM Country WHERE Continent = 'Europe';
+SELECT Name, Continent, Region FROM Country WHERE Continent = 'Europe' ORDER BY Name;
+SELECT Name, Continent, Region FROM Country WHERE Continent = 'Europe' ORDER BY Name LIMIT 5;
+SELECT Name, Continent, Region FROM Country WHERE Continent = 'Europe' ORDER BY Name LIMIT 5 OFFSET 5;
+
+# Null 
+
+SELECT * FROM test;
+SELECT * FROM test WHERE a = NULL;
+SELECT * FROM test WHERE a IS NULL;
+SELECT * FROM test WHERE a IS NOT NULL;
+INSERT INTO test ( a, b, c ) VALUES ( 0, NULL, '' );
+SELECT * FROM test WHERE b IS NULL;
+SELECT * FROM test WHERE b = '';
+SELECT * FROM test WHERE c = '';
+SELECT * FROM test WHERE c IS NULL;
+
+
+# Like and In Operators
+
+SELECT * FROM Country;
+SELECT Name, Continent, Population FROM Country 
+  WHERE Population < 100000 ORDER BY Population DESC;
+SELECT Name, Continent, Population FROM Country 
+  WHERE Population < 100000 OR Population IS NULL ORDER BY Population DESC;
+SELECT Name, Continent, Population FROM Country 
+  WHERE Population < 100000 AND Continent = 'Oceania' ORDER BY Population DESC;
+SELECT Name, Continent, Population FROM Country 
+  WHERE Name LIKE '%island%' ORDER BY Name;
+SELECT Name, Continent, Population FROM Country 
+ WHERE Continent IN ( 'Europe', 'Asia' ) ORDER BY Name;
+
+
+# Order By Keyword
+
+SELECT Name FROM Country;
+SELECT Name FROM Country ORDER BY Name;
+SELECT Name FROM Country ORDER BY Name DESC;
+SELECT Name FROM Country ORDER BY Name ASC;
+SELECT Name, Continent FROM Country ORDER BY Continent, Name;
+SELECT Name, Continent, Region FROM Country ORDER BY Continent DESC, Region, Name;
+
+# Alaias
+
+SELECT * from Country;
+SELECT Name, Continent, Region from Country;
+SELECT Name AS Country, Continent, Region from Country;
+SELECT Name AS Country, Region, Continent from Country;
+
+
+# Insert data 
+
+SELECT * FROM customer;
+
+INSERT INTO customer (name, address, city, state, zip) 
+  VALUES ('Fred Flintstone', '123 Cobblestone Way', 'Bedrock', 'CA', '91234');
+
+INSERT INTO customer (name, city, state) 
+  VALUES ('Jimi Hendrix', 'Renton', 'WA');
+
+
+ # Insert data 
+
+CREATE TABLE test ( a INTEGER, b TEXT, c TEXT );
+
+INSERT INTO test VALUES ( 1, 'This', 'Right here!' ); 
+INSERT INTO test ( b, c ) VALUES ( 'That', 'Over there!' ); 
+INSERT INTO test DEFAULT VALUES;
+INSERT INTO test ( a, b, c ) SELECT id, name, description from item;
+
+SELECT * FROM test;
+
+INSERT INTO test VALUES ( 1, 'this', 'that' );
+SELECT * FROM test;
+
+INSERT INTO test ( b, c ) VALUES ( 'one', 'two' );
+INSERT INTO test ( a, c ) VALUES ( 1, 'two' );
+INSERT INTO test ( a, b ) VALUES ( 1, 'two' );
+DROP TABLE IF EXISTS test;
+
+# Update data
+
+SELECT * FROM customer;
+UPDATE customer SET address = '123 Music Avenue', zip = '98056' WHERE id = 5;
+UPDATE customer SET address = '2603 S Washington St', zip = '98056' WHERE id = 5;
+UPDATE customer SET address = NULL, zip = NULL WHERE id = 5;
+
+# Insert data
+
+SELECT Continent FROM Country;
+SELECT DISTINCT Continent FROM Country;
+Using the SELECT DISTINCT statement, you will get only unique results. 
+
+-- test.db
+
+DROP TABLE IF EXISTS test;
+CREATE TABLE test ( a int, b int );
+INSERT INTO test VALUES ( 1, 1 );
+INSERT INTO test VALUES ( 2, 1 );
+INSERT INTO test VALUES ( 3, 1 );
+INSERT INTO test VALUES ( 4, 1 );
+INSERT INTO test VALUES ( 5, 1 );
+INSERT INTO test VALUES ( 1, 2 );
+INSERT INTO test VALUES ( 1, 2 );
+INSERT INTO test VALUES ( 1, 2 );
+INSERT INTO test VALUES ( 1, 2 );
+INSERT INTO test VALUES ( 1, 2 );
+SELECT * FROM test;
+
+SELECT DISTINCT a FROM test;
+SELECT DISTINCT b FROM test;
+SELECT DISTINCT a, b FROM test;
+
+DROP TABLE IF EXISTS test;
+
+
+# Delete data
+
+SELECT * FROM test;
+DELETE FROM test WHERE a = 3;
+SELECT * FROM test WHERE a = 1;
+DELETE FROM test WHERE a = 1;
+
+# Delete Data
+
+SELECT * FROM customer WHERE id = 4;
+DELETE FROM customer WHERE id = 4;
+SELECT * FROM customer;
+DELETE FROM customer WHERE id = 5;
+SELECT * FROM customer;
+
+
+
+
+
+

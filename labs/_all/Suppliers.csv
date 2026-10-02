@@ -1,0 +1,10 @@
+﻿SupplierID,SupplierName,Address,Phone,Country,LeadTimeDays
+SUP01,Pasir Panjang Fresh Pte Ltd,"Wholesale Centre, Pasir Panjang",6777 2311,Singapore,14
+SUP02,Golden Orchard Imports,18 Jalan Kilang Barat,6265 8890,Singapore,21
+SUP03,Dairy Farm Distribution SG,9 Senoko Way,6752 4400,Singapore,7
+SUP04,Sunshine Bakeries,2 Pandan Loop,6779 1288,Singapore,3
+SUP05,Lion City Beverages,51 Tuas Ave 1,6861 5522,Singapore,30
+SUP06,Nanyang Snacks Trading,7 Kaki Bukit Road 1,6742 9080,Malaysia,28
+SUP07,CleanHome Supplies Asia,35 Joo Koon Circle,6863 7100,Singapore,30
+SUP08,PureCare Products Pte Ltd,12 Ang Mo Kio Street 64,6484 3355,Thailand,45
+SUP09,Arctic Cold Chain Pte Ltd,30 Senoko Drive,6759 6677,Singapore,10

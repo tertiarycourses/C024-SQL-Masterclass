@@ -1,0 +1,9 @@
+﻿CategoryCode,CategoryName,CategoryGroup
+CAT01,Fresh Produce,Perishables
+CAT02,Dairy & Chilled,Perishables
+CAT03,Bakery,Perishables
+CAT04,Beverages,Packaged
+CAT05,Snacks,Packaged
+CAT06,Household,Non-Food
+CAT07,Personal Care,Non-Food
+CAT08,Frozen,Perishables

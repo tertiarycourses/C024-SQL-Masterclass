@@ -1,0 +1,89 @@
+# Create table
+
+CREATE TABLE test (
+  a INTEGER,
+  b TEXT
+);
+
+INSERT INTO test VALUES ( 1, 'a' );
+INSERT INTO test VALUES ( 2, 'b' );
+INSERT INTO test VALUES ( 3, 'c' );
+SELECT * FROM test;
+
+# Drop table
+
+CREATE TABLE test ( a TEXT, b TEXT );
+INSERT INTO test VALUES ( 'one', 'two' );
+SELECT * FROM test;
+DROP TABLE test;
+DROP TABLE IF EXISTS test;
+
+
+DROP TABLE IF EXISTS test;
+CREATE TABLE test (
+  a INTEGER NOT NULL,
+  b TEXT NOT NULL,
+  c TEXT
+);
+
+# Alter table
+
+DROP TABLE IF EXISTS test;
+CREATE TABLE test ( a TEXT, b TEXT, c TEXT );
+INSERT INTO test VALUES ( 'one', 'two', 'three');
+INSERT INTO test VALUES ( 'two', 'three', 'four');
+INSERT INTO test VALUES ( 'three', 'four', 'five');
+SELECT * FROM test;
+
+ALTER TABLE test ADD d TEXT;
+ALTER TABLE test ADD e TEXT DEFAULT 'panda';
+
+
+# Constraints
+
+DROP TABLE IF EXISTS test;
+CREATE TABLE test ( a TEXT, b TEXT, c TEXT );
+INSERT INTO test ( a, b ) VALUES ( 'one', 'two' );
+SELECT * FROM test;
+
+CREATE TABLE test ( a TEXT, b TEXT, c TEXT NOT NULL );
+CREATE TABLE test ( a TEXT, b TEXT, c TEXT DEFAULT 'panda' );
+CREATE TABLE test ( a TEXT UNIQUE, b TEXT, c TEXT DEFAULT 'panda' );
+CREATE TABLE test ( a TEXT UNIQUE NOT NULL, b TEXT, c TEXT DEFAULT 'panda' );
+
+DROP TABLE IF EXISTS test;
+
+# Primary Key
+
+CREATE TABLE test (
+  id INTEGER PRIMARY KEY,
+  a INTEGER,
+  b TEXT
+);
+INSERT INTO test (a, b) VALUES ( 10, 'a' );
+INSERT INTO test (a, b) VALUES ( 11, 'b' );
+INSERT INTO test (a, b) VALUES ( 12, 'c' );
+SELECT * FROM test;
+DROP TABLE IF EXISTS test;
+
+
+# Case
+
+DROP TABLE IF EXISTS booltest;
+CREATE TABLE booltest (a INTEGER, b INTEGER);
+INSERT INTO booltest VALUES (1, 0);
+SELECT * FROM booltest;
+
+SELECT
+    CASE WHEN a THEN 'true' ELSE 'false' END as boolA,
+    CASE WHEN b THEN 'true' ELSE 'false' END as boolB
+    FROM booltest
+;
+
+SELECT
+  CASE a WHEN 1 THEN 'true' ELSE 'false' END AS boolA,
+  CASE b WHEN 1 THEN 'true' ELSE 'false' END AS boolB 
+  FROM booltest
+;
+
+DROP TABLE IF EXISTS booltest;
